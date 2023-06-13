@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-I'm currently working on Machine Learning project and developing a portfolio website for myself.<br>I’m looking to collaborate on projects based on AWS.<br>I''m learning CLoud Computing and React.js<br>I'm creatively curious<br>
+I'm currently working on Machine Learning project and developing a portfolio website for myself.<br>I’m looking to collaborate on projects based on AWS.<br>I''m learning Cloud Computing and React.js<br>I'm creatively curious<br>
 
 
 ## 🌐 Socials:
